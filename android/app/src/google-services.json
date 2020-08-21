@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543371336941",
+    "firebase_url": "https://login-9fe4e.firebaseio.com",
+    "project_id": "login-9fe4e",
+    "storage_bucket": "login-9fe4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543371336941:android:88228ebc0fbd804f7a80e4",
+        "android_client_info": {
+          "package_name": "com.example.smartcell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543371336941-vkc35ls6qjsq1b4avjb40ql1reqrmvh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAMRnZu05PgBIN3g3jh8JBUIJS5Rk0LlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543371336941-vkc35ls6qjsq1b4avjb40ql1reqrmvh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
